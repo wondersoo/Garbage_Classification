@@ -1,6 +1,9 @@
 # Garbage Classification
 - 이것은 생활폐기물 분류를 가장 잘 하는 모델을 알아보는 프로젝트입니다. 
 - 딥러닝 모델 4개, 머신러닝 모델 2개로 성능을 확인해 보았습니다. 
+- 다음은 활용한 데이터 예시입니다.
+
+![데이터 예시](https://github.com/wondersoo/wondersoo.github.io/assets/136608247/ba30e6d5-dc0e-4b6a-82c9-f521c6d13007)
 
 #### 한계점
 1. 생활폐기물을 6가지의 class로만 분류합니다.
